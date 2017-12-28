@@ -12,10 +12,9 @@
           <div class="form-group">
             <label class="col-sm-2 control-label">课程名称</label>
             <div class="col-sm-10">
-              <input type="email" v-model:value="curriculum.name" class="form-control">
+              <input type="email" class="form-control">
             </div>
           </div>
-
           <div class="form-group">
             <label for="" class="col-sm-2 control-label">包含服务项</label>
             <div class="col-sm-10 form-inline">
@@ -64,7 +63,6 @@
                 </a>
               </div>
             </div>
-
           </div>
         </form>
       </div>

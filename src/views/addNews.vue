@@ -50,13 +50,12 @@
 
           <div class="form-group">
             <div class="col-sm-offset-2 col-sm-10 text-center">
-              <button type="submit" class="btn btn-primary">Sign in</button>
-              <button type="submit" class="btn btn-default">Sign in</button>
+              <button type="submit" class="btn btn-primary">确定</button>
+              <button type="submit" class="btn btn-default">取消</button>
             </div>
           </div>
         </form>
       </div>
-
     </div>
   </div>
 </template>

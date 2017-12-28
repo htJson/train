@@ -18,9 +18,12 @@ body{font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; overflow:hidden;}
 .ab_margin{margin:0px;}
 .ab_mt5{margin-top:5px;}
 .ab_mt10{margin-top:10px;}
+.ab_mb20{margin-bottom:20px;}
+.ab_ml15{margin-left:15px}
 .ab_mr5{margin-right:5px;}
 .ab_mr20{margin-right:20px;}
 .ab_mt20{margin-top:20px;}
+.ab_pb20{padding-bottom:20px;}
 .ab_padding{padding:0px;}
 .ab_pt20{padding-top:20px;}
 .ab_pb20{padding-bottom:20px;}
@@ -58,6 +61,8 @@ li{margin:0px;}
 .pagination>li>a, .pagination>li>span{color:rgba(0,0,0,.5);}
 .pagination>.active a{font-weight: bolder; color:#fff;}
 
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{vertical-align: middle; padding:8px 0px;}
+
 /*左侧折叠*/
 .ab_cursor span{
   display:inline-block;
@@ -82,3 +87,8 @@ li{margin:0px;}
 
 /*index 排版 添加*/
 .ab_style{position:absolute; top:0px;  padding-right:30px; left:25px; padding-top:68px; right:0px; bottom:0px; overflow: auto;}
+.ab_screen{
+  /*box-shadow:1px 1px 2px 0px #337ab7; */
+  border-bottom:1px solid #337ab7;
+  padding:10px 0px;
+}

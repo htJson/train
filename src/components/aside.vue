@@ -77,7 +77,7 @@
             <h5 class="ab_f13 ab_cursor ab_navTitle"><span class="glyphicon glyphicon glyphicon-play" aria-hidden="true"></span>考试管理</h5>
             <ul class="list-group ab_list ab_margin list-menu">
               <li class="list-group-item">
-                <a href="javascript:;">成绩管理</a>
+                <router-link to="/grades">成绩管理</router-link>
               </li>
             </ul>
           </div>
