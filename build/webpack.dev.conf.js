@@ -2,7 +2,12 @@
 const utils = require('./utils')
 const webpack = require('webpack')
 const config = require('../config')
+const express = require('express');
+const mongoose =require('mongoose')
+const app=express();
+const router = express.Router();
 const merge = require('webpack-merge')
+const bodyParser = require('body-parser') 
 const baseWebpackConfig = require('./webpack.base.conf')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const FriendlyErrorsPlugin = require('friendly-errors-webpack-plugin')
@@ -10,6 +15,9 @@ const portfinder = require('portfinder')
 
 const HOST = process.env.HOST
 const PORT = process.env.PORT && Number(process.env.PORT)
+
+app.use(bodyParser.urlencoded({ extended: false }))
+app.use(bodyParser.json())
 
 const devWebpackConfig = merge(baseWebpackConfig, {
   module: {

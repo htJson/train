@@ -10,8 +10,13 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "body-parser": "^1.18.2",
     "bootstrap": "^3.3.7",
+    "express": "^4.16.2",
     "jquery": "^3.2.1",
+    "mongodb": "^3.0.1",
+    "mongodb-core": "^3.0.1",
+    "mongoose": "^5.0.0-rc1",
     "postcss-load-config": "^1.2.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
