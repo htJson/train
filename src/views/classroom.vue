@@ -1,10 +1,8 @@
 <template>
   <div class="side_right">
     <!-- 面包屑导航 -->
-    <div class="ab_bg_white" style="margin-bottom:10px;border-bottom:1px solid #ddd; margin:0; padding-left:28px;  position:absolute; z-index: 10; left:11px; right:0px; top:0px;
-          box-shadow: 1px 1px 1px 0px #f1f1f1;
-          background:#fff">
-      <h3 style=" padding-bottom:6px; margin-top:25px; font-weight: normal;">教室信息列表</h3>
+    <div class="ab_bg_white ab_Title" style="">
+      <h4>教室信息列表<a href="/addRoom" class="btn btn-sm btn-primary pull-right"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span>&nbsp;添加</a></h4>
     </div>
     <div class="container-fluid ab_style" id="table-cont">
       <!-- 动态 -->

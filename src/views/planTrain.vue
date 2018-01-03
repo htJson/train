@@ -1,10 +1,8 @@
 <template>
     <div class="side_right">
         <!-- 面包屑导航 -->
-        <div class="ab_bg_white" style="margin-bottom:10px;border-bottom:1px solid #ddd; margin:0; padding-left:28px;  position:absolute; z-index: 10; left:11px; right:0px; top:0px;
-          box-shadow: 1px 1px 1px 0px #f1f1f1;
-          background:#fff">
-            <h3 style=" padding-bottom:6px; margin-top:25px; font-weight: normal;">栏目标题</h3>
+        <div class="ab_bg_white ab_Title" style="">
+            <h4>培训计划</h4>
         </div>
 
         <div class="container-fluid ab_style " id="table-cont">
@@ -33,6 +31,10 @@
                                 <option value="">1111111111111111111111111</option>
                             </select>
                         </div>
+
+                    </div>
+                    <br>
+                    <div class="form-inline row">
                         <div class="form-group ab_pl15">
                             <label>合伙人:</label>
                             <select name="" class="form-control">
@@ -57,7 +59,7 @@
             </div>
 
             <!-- 动态 -->
-            <table class="table table-striped table-hover">
+            <table class="table table-bordered table-hover">
                 <thead>
                 <tr>
                     <th>教师</th>

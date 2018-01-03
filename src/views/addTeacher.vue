@@ -1,14 +1,14 @@
 <template>
   <div class="side_right">
-    <!-- 面包屑导航 -->
-    <div class="ab_bg_white" style="margin-bottom:10px;border-bottom:1px solid #ddd; margin:0; padding-left:28px;  position:absolute; z-index: 10; left:11px; right:0px; top:0px;
-          box-shadow: 1px 1px 1px 0px #f1f1f1;
-          background:#fff">
-      <h3 style=" padding-bottom:6px; margin-top:25px; font-weight: normal;">添加教师</h3>
+    <div class="ab_bg_white ab_Title" >
+      <div class="row">
+        <ol class="breadcrumb ab_navRouter">
+          <li><router-link to="/teacher">教师信息列表</router-link></li>
+          <li>添加</li>
+        </ol>
+      </div>
     </div>
-    <div class="list">
-sdfsfadfasdfdsfdsfsdfads
-    </div>
+
     <div class="container-fluid ab_style">
       <div style="width:1000px; margin:0 auto;">
         <form class="form-horizontal ab_mt20 col-sm-9" >

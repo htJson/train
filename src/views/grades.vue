@@ -1,10 +1,8 @@
 <template>
     <div class="side_right">
         <!-- 面包屑导航 -->
-        <div class="ab_bg_white" style="margin-bottom:10px;border-bottom:1px solid #ddd; margin:0; padding-left:28px;  position:absolute; z-index: 10; left:11px; right:0px; top:0px;
-          box-shadow: 1px 1px 1px 0px #f1f1f1;
-          background:#fff">
-            <h3 style=" padding-bottom:6px; margin-top:25px; font-weight: normal;">栏目标题</h3>
+        <div class="ab_bg_white ab_Title" style="">
+            <h4>成绩管理</h4>
         </div>
 
         <div class="container-fluid ab_style " id="table-cont">
@@ -26,21 +24,17 @@
                                 <option value="">1111111111111111111111111</option>
                                 <option value="">1111111111111111111111111</option>
                             </select>
-                            <!--<select name="" id="" class="form-control">-->
-                            <!--<option value="">这是选项而已</option>-->
-                            <!--</select>-->
                         </div>
                         <div class="form-group ab_pl15">
                             <input type="text" class="form-control" placeholder="搜索条件">
                             <button type="submit" class="btn btn-primary btn-sm ab_ml15">搜索</button>
                         </div>
-
                     </div>
                 </div>
             </div>
 
             <!-- 动态 -->
-            <table class="table table-striped table-hover">
+            <table class="table table-bordered table-hover">
                 <thead>
                     <tr>
                         <th>序号</th>
@@ -129,5 +123,5 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
+    /*/usr/local/Cellar/mongodb/3.6.1: 19 files, 288.5MB*/
 </style>

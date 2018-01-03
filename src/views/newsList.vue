@@ -1,10 +1,8 @@
 <template>
   <div class="side_right">
     <!-- 面包屑导航 -->
-    <div class="ab_bg_white" style="margin-bottom:10px;border-bottom:1px solid #ddd; margin:0; padding-left:28px;  position:absolute; z-index: 10; left:11px; right:0px; top:0px;
-          box-shadow: 1px 1px 1px 0px #f1f1f1;
-          background:#fff">
-      <h3 style=" padding-bottom:6px; margin-top:25px; font-weight: normal;">栏目标题</h3>
+    <div class="ab_bg_white ab_Title" style="">
+      <h4>培训学校信息列表<router-link to="/add_course" class="btn btn-sm btn-primary pull-right"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span>&nbsp;添加</router-link></h4>
     </div>
     <div class="container-fluid ab_style" id="table-cont">
       <!-- 动态 -->
@@ -22,15 +20,15 @@
         </thead>
         <tbody>
           <tr>
-            <td>北京市东城区职业大学</td>
+            <td><router-link to="/deail">北京市东城区职业大学</router-link></td>
             <td>北京市潘家胡同2号</td>
             <td>2012/09/12-2018/09/12</td>
             <td>李老师</td>
             <td>15201491992</td>
             <td>010-0994842482</td>
             <td>
-              <button class="btn btn-primary">编辑</button>
-              <button class="btn btn-default">取消</button>
+              <a href="javascript:;" class="">编辑</a>
+              <a href="javascript:;" class="">取消</a>
             </td>
           </tr>
         </tbody>

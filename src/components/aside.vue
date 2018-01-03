@@ -13,6 +13,9 @@
             <li class="list-group-item">
               <router-link to="/add_course">添加课程</router-link>
             </li>
+            <li class="list-group-item">
+              <router-link to="/course_Detail">课程详情</router-link>
+            </li>
           </ul>
         </div>
         <div class="list-group">
