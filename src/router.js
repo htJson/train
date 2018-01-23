@@ -14,7 +14,9 @@ import planTrain from './views/planTrain';
 import trainVideo from './views/trainVideo';
 import addTrainVideo from './views/addTrainVideo';
 import grades from './views/grades';
-import course_Detail from './views/coures_detail'
+import course_Detail from './views/coures_detail';
+import treeList from './views/treeList'
+
 export default new Router({
 	mode:'history',
 	routes: [
@@ -98,6 +100,11 @@ export default new Router({
             path:'/course_Detail',
             name:'addDetail',
             component:course_Detail
+        },
+        {
+            path:'/treeList',
+            name:'tree',
+            component:treeList
         }
 	]
 })

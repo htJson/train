@@ -27,19 +27,7 @@
             <td>康洁士</td>
             <td>2014</td>
             <td>
-              <a href="javascript:;" class="">编辑</a>
-              <a href="javascript:;" class="">编辑</a>
-            </td>
-          </tr>
-          <tr>
-            <td>保洁</td>
-            <td>第一节</td>
-            <td>日常清洁五要素</td>
-            <td>日常保洁</td>
-            <td>康洁士</td>
-            <td>2014</td>
-            <td>
-              <a href="javascript:;" class="">编辑</a>
+              <a href="javascript:;"  @click="edite">编辑</a>
               <a href="javascript:;" class="">编辑</a>
             </td>
           </tr>
@@ -51,8 +39,560 @@
             <td>康洁士</td>
             <td>2014</td>
             <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
               <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
               <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;"  @click="edite">编辑</a>
+              <a href="javascript:;" class="">编辑</a>
+            </td>
+          </tr>
+          <tr>
+            <td>保洁</td>
+            <td>第一节</td>
+            <td>日常清洁五要素</td>
+            <td>日常保洁</td>
+            <td>康洁士</td>
+            <td>2014</td>
+            <td>
+              <a href="javascript:;" @click="edite">编辑</a>
+              <a href="javascript:;" class="">删除</a>
             </td>
           </tr>
         </tbody>
@@ -77,6 +617,21 @@
         </ul>
       </nav>
     </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">课程表</h4>
+          </div>
+          <div class="modal-body">
+            ...
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -87,16 +642,23 @@ function scrollHandle (e){
   this.querySelector('thead').style.transform = 'translateY(' + scrollTop + 'px)';
 }
 export default {
-  name: 'HelloWorld',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App111'
-    }
-  },
-  mounted(){
+    name: 'HelloWorld',
+    data () {
+      return {
+        msg: 'Welcome to Your Vue.js App111'
+      }
+    },
+    mounted(){
 
-    $('#table-cont').on('scroll',scrollHandle)
-  }
+      $('#table-cont').on('scroll',scrollHandle)
+    },
+    methods:{
+        edite(){
+
+            $('#myModal').modal('show')
+        }
+    }
+
 }
 </script>
 
